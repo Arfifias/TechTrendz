@@ -1,0 +1,351 @@
+body {
+    background-color: #34eb86;
+}
+
+h1.Title {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.Paragraph1 {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    color: #1a5082;
+}
+
+h2.Homepage {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.Paragraph2 {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    color: #1a5082;
+}
+
+h2.TechTrenz {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.Paragraph3 {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    color: #1a5082;
+}
+
+h2.Products {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.Paragraph4 {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    color: #1a5082;
+}
+
+h2.TechExplainers {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.Paragraph5 {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    color: #1a5082;
+}
+
+h2.Editorials {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.Paragraph6 {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    color: #1a5082;
+}
+
+h2.Community {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.Paragraph7 {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    color: #1a5082;
+}
+
+h2.Events {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.Paragraph8 {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    color: #1a5082;
+}
+
+h2.Podcasts {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.Paragraph9 {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    color: #1a5082;
+}
+
+h2.Newletter {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.Paragraph10 {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    color: #1a5082;
+}
+
+div.links {
+    text-align: left;
+    font-family: monospace;
+    font-size: xx-large;
+    font-weight: normal;
+    color: #1a5082;
+    padding-left: 750px;
+}
+
+#link1 {
+    border: 1px solid black;
+    background-color: #1a5082;
+    ;
+    border-radius: 7px;
+    font-family: monospace;
+    color: #34eb86;
+    text-decoration: none;
+}
+
+#link1:hover {
+    background-color: black;
+}
+
+#link1:active {
+    background-color: #1a5082;
+}
+
+#link2 {
+    border: 1px solid black;
+    background-color: #1a5082;
+    ;
+    border-radius: 7px;
+    font-family: monospace;
+    color: #34eb86;
+    text-decoration: none;
+}
+
+#link2:hover {
+    background-color: black;
+}
+
+#link2:active {
+    background-color: #1a5082;
+}
+
+#link3 {
+    border: 1px solid black;
+    background-color: #1a5082;
+    ;
+    border-radius: 7px;
+    font-family: monospace;
+    color: #34eb86;
+    text-decoration: none;
+}
+
+#link3:hover {
+    background-color: black;
+}
+
+#link3:active {
+    background-color: #1a5082;
+}
+
+#link4 {
+    border: 1px solid black;
+    background-color: #1a5082;
+    ;
+    border-radius: 7px;
+    font-family: monospace;
+    color: #34eb86;
+    text-decoration: none;
+}
+
+#link4:hover {
+    background-color: black;
+}
+
+#link4:active {
+    background-color: #1a5082;
+}
+
+#link5 {
+    border: 1px solid black;
+    background-color: #1a5082;
+    ;
+    border-radius: 7px;
+    font-family: monospace;
+    color: #34eb86;
+    text-decoration: none;
+}
+
+#link5:hover {
+    background-color: black;
+}
+
+#link5:active {
+    background-color: #1a5082;
+}
+
+h1.AboutTitle {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.about {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 700;
+    color: #1a5082;
+}
+p.Also{
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 700;
+    color: #1a5082;
+}
+
+h1.techTitle {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+
+p.tech {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 700;
+    color: #1a5082;
+}
+h1.geeks {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+p.geeking {
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 700;
+    color: #1a5082;
+}
+h1.News {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+p.pandemic{
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 700;
+    color: #1a5082;
+}
+p.pandemic2{
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 700;
+    color: #1a5082;
+}
+h1.Coding {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+p.TheCode{
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 700;
+    color: #1a5082;
+}
+h2.Developers{
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+p.TheCode2{
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 700;
+    color: #1a5082;
+}
+h2.text{
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: #1a5082;
+}
+p.textEditors{
+    text-align: left;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 700;
+    color: #1a5082;
+}
